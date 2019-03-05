@@ -1,10 +1,7 @@
 ---
 title: "Machine Learning by tag and posts"
-layout: collection
-permalink: ml/machine-learning/
-collection: portfolio
-entries_layout: grid
-classes: wide
+layout: archive
+permalink: /machine-learning/
 header:
   image: "/images/image4.jpeg"
 ---
