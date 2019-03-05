@@ -1,6 +1,6 @@
 ---
 title: "Checking how things work"
-permalink: /ml/checking-how-things-work/
+permalink: /checking-how-things-work/
 #date: 2019-03-04
 #tags: []
 #excerpt: "Checking ipython integrability"
