@@ -1,11 +1,10 @@
 ---
 title: "Checking how things work"
-permalink: /checking-how-things-work/
-#date: 2019-03-04
-#tags: []
-#excerpt: "Checking ipython integrability"
-#mathjax: true
-toc: true
+url: /checking-how-things-work/
+date: 2019-03-04
+tags: []
+excerpt: "Checking ipython integrability"
+mathjax: true
 ---
 
 $$
