@@ -35,3 +35,5 @@ docs:
     children:
       - title: "About"
         url: /docs/about/
+      - title: "Checking how things work"
+        url: /docs/checking-how-things-work/
