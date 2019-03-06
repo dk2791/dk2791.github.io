@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Main Page"
+title: "Machine Learning Projects"
 permalink: /ml/machine-learning/
 header:
   image: "/images/image4.jpeg"
