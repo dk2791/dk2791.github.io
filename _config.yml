@@ -304,3 +304,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # ml
+  - scope:
+      path: "_ml"
+      type: Pages
+    values:
+      layout: single
+      authir_profile: false
+      comments: true
