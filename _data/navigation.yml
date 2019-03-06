@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: /docs/about/
   - title: "Machine Learning Projects"
     url: /machine-learning/
   # - title: "Categories"
@@ -29,3 +29,9 @@ main:
 #
 #
 # example navigation
+
+docs:
+  - title: Getting Started
+    children:
+      - title: "About"
+        url: /docs/about/
