@@ -1,10 +1,6 @@
 ---
 title: "Machine Learning Main Page"
-layout: collection
-permalink: ml/machine-learning/
-collection: portfolio
-entries_layout: grid
-classes: wide
+permalink: /ml/machine-learning/
 header:
   image: "/images/image4.jpeg"
 sidebar:
