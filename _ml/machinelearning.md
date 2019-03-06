@@ -7,6 +7,8 @@ entries_layout: grid
 classes: wide
 header:
   image: "/images/image4.jpeg"
+sidebar:
+  nav: "ml"
 ---
 
 I hope to update projects here !

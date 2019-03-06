@@ -41,6 +41,8 @@ docs:
 ml:
   - title: Project List
     children:
+      - title: "Machine Learning Projects"
+        url: /ml/machine-learning/
       - title: "Project Number 1"
         url: /ml/ml-project-1/
       - title: "Project Number 2"
