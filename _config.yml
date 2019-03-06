@@ -311,5 +311,5 @@ defaults:
       type: Pages
     values:
       layout: single
-      authir_profile: false
+      author_profile: false
       comments: true
