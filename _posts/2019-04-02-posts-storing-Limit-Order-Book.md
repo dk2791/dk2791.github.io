@@ -1,13 +1,13 @@
 ---
-title: "python code for storing Limit Order Book data of SP500 companies every 5 minutes"
+title: "python code for storing Limit Order Book data of SP500 companies every 5 minute"
 date: 2019-04-02
 tags: []
 excerpt:
 mathjax: true
 ---
 
-Following script will download LOB data of 500 companies every 5 minute into LOB.csv
-The description of columns in book DataFrames are available at [link](https://iextrading.com/developer/docs/#getting-started)
+Following script will download LOB data of 500 companies every 5 minute into "LOB.csv".
+The description of columns in book DataFrames are available [here](https://iextrading.com/developer/docs/#getting-started)
 
 
 ```python
