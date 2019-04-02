@@ -7,6 +7,8 @@ mathjax: true
 classes: wide
 ---
 To access script used for this post, check out [here](https://github.com/dk2791/dk2791.github.io/blob/master/_posts/2019-03-04-posts-checkinghowthingswork.md)
+
+
 $$
 \begin{equation*}
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
