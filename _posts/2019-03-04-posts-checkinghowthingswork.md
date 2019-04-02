@@ -1,5 +1,5 @@
 ---
-title: "Checking how things work"
+title: "Checking how things work for this website"
 date: 2019-03-04
 tags: []
 excerpt: "Checking ipython integrability"

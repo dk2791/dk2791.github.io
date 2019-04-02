@@ -6,6 +6,7 @@ header:
 sidebar:
   nav: "docs"
 mathjax: true
+classes: wide
 ---
 
 $$
