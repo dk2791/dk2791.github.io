@@ -6,4 +6,4 @@ header:
 sidebar:
   nav: "docs"
 ---
-Data Science
+A blog of Donggeun Kim
