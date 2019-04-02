@@ -4,6 +4,7 @@ date: 2019-03-04
 tags: []
 excerpt: "Checking ipython integrability"
 mathjax: true
+classes: wide
 ---
 
 $$

@@ -4,6 +4,7 @@ date: 2019-04-02
 tags: []
 excerpt:
 mathjax: true
+classes: wide
 ---
 
 Following script will download LOB data of 500 companies every 5 minute into "LOB.csv".
