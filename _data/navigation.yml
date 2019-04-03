@@ -57,5 +57,7 @@ fe:
         url: /fe/financial-engineering/
       - title: "Pricing exotic ADR options"
         url: /fe/fe-project-1/
-      - title: "Project Number 2"
+      - title: "The Generalization of XVA to SV framework"
         url: /fe/fe-project-2/
+      - title: "Longevity Risk Derivatives"
+        url: /fe/fe-project-3/

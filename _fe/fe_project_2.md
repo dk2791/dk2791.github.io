@@ -6,7 +6,7 @@ header:
 sidebar:
   nav: "fe"
 ---
-This project was submitted to Maekyung Economics Competition in December 2015.
+This project was submitted to Dongbu Research Competition in May 2017.
 Coauthor was Sohee Park and Wonho Choi
 It is written in Korean
 
