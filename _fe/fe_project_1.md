@@ -2,7 +2,7 @@
 title: "Pricing an exotic ADR option"
 permalink: /fe/fe-project-1/
 header:
-  image: "/images/image50.jpeg"
+  image: "/images/image7.jpeg"
 sidebar:
   nav: "fe"
 ---

@@ -6,4 +6,4 @@ header:
 sidebar:
   nav: "fe"
 ---
-Financial engineering in traditional sense
+Financial Engineering in the traditional sense. BM, for example.

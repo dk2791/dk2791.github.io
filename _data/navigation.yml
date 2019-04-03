@@ -55,9 +55,11 @@ fe:
     children:
       - title: "Financial Engineering Projects"
         url: /fe/financial-engineering/
-      - title: "Pricing exotic ADR options"
+      - title: "Pricing Exotic ADR Options"
         url: /fe/fe-project-1/
       - title: "The Generalization of XVA to SV framework"
         url: /fe/fe-project-2/
       - title: "Longevity Risk Derivatives"
         url: /fe/fe-project-3/
+      - title: "The Longevity Risk"
+        url: /fe/fe-project-4/

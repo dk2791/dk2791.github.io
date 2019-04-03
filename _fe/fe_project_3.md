@@ -2,13 +2,12 @@
 title: "Longevity Risk Derivatives"
 permalink: /fe/fe-project-3/
 header:
-  image: "/images/image6.jpeg"
+  image: "/images/image9.jpeg"
 sidebar:
   nav: "fe"
 ---
 This project was submitted to Maekyung Economics Competition in December 2015.
-Coauthor was Yoongu Kang and Sooyeol Kim
-It is written in Korean
+Coauthor was Yoongu Kang and Sooyeol Kim. It is written in Korean
 
 ![alt]({{ site.url}}{{ site.baseurl }}/images/fe_project_3/im1.png)
 ![alt]({{ site.url}}{{ site.baseurl }}/images/fe_project_3/im2.png)

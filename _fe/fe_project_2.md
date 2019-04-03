@@ -2,13 +2,12 @@
 title: "the Generalization of XVA to SV framework"
 permalink: /fe/fe-project-2/
 header:
-  image: "/images/image6.jpeg"
+  image: "/images/image8.jpeg"
 sidebar:
   nav: "fe"
 ---
-This project was submitted to Dongbu Research Competition in May 2017.
-Coauthor was Sohee Park and Wonho Choi
-It is written in Korean
+This project was submitted to Dongbu Research Competition in May 2016.
+Coauthor was Sohee Park and Wonho Choi. It is written in Korean
 
 ![alt]({{ site.url}}{{ site.baseurl }}/images/fe_project_2/im1.png)
 ![alt]({{ site.url}}{{ site.baseurl }}/images/fe_project_2/im2.png)
