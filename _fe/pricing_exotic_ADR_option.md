@@ -1,6 +1,6 @@
 ---
 title: "Pricing an exotic ADR option"
-permalink: /ml/ml-project-1/
+permalink: /fe/fe-project-1/
 header:
   image: "/images/image50.jpeg"
 sidebar:

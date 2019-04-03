@@ -2,8 +2,11 @@
 main:
   - title: "About"
     url: /docs/about/
+  - title: "Financial Engineering Projects"
+    url: /fe/financial-engineering/
   - title: "Machine Learning Projects"
     url: /ml/machine-learning/
+
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
@@ -47,3 +50,12 @@ ml:
         url: /ml/ml-project-1/
       - title: "Project Number 2"
         url: /ml/ml-project-2/
+fe:
+  - title: Project List
+    children:
+      - title: "Financial Engineering Projects"
+        url: /fe/financial-engineering/
+      - title: "Pricing exotic ADR options"
+        url: /fe/fe-project-1/
+      - title: "Project Number 2"
+        url: /fe/fe-project-2/

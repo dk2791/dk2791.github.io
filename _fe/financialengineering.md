@@ -1,9 +1,9 @@
 ---
-title: "Machine Learning Projects"
-permalink: /ml/machine-learning/
+title: "Financial Engineering Projects"
+permalink: /fe/financial-engineering/
 header:
-  image: "/images/image4.jpeg"
+  image: "/images/image50.jpeg"
 sidebar:
-  nav: "ml"
+  nav: "fe"
 ---
-I hope to update projects here !
+Financial engineering in traditional sense
