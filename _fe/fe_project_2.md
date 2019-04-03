@@ -4,7 +4,7 @@ permalink: /fe/fe-project-2/
 header:
   image: "/images/image6.jpeg"
 sidebar:
-  nav: "ml"
+  nav: "fe"
 ---
 
 Project #2 !
