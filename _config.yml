@@ -162,6 +162,7 @@ include:
   - .htaccess
   - _pages
   - _ml
+  - _fe
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
