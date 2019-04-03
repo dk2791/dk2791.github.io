@@ -9,3 +9,5 @@ sidebar:
 
 Project #1 !
 ![caterpillar](http:/dk2791.github.io/assets/pdf/Pricing_Exercise_v2.pdf)
+![caterpillar](/assets/pdf/Pricing_Exercise_v2.pdf)
+![alt]({{ site.url}}{{ site.baseurl }}pdf/Pricing_Exercise_v2.pdf)
