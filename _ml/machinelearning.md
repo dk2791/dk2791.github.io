@@ -6,4 +6,5 @@ header:
 sidebar:
   nav: "ml"
 ---
+I'm currently in a Data Science Bootcamp.
 I hope to update projects here !
