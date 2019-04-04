@@ -7,8 +7,8 @@ mathjax: true
 classes: wide
 ---
 
-<!DOCTYPE html>
-<html>
+
+<div>
   <head>
     <title>Styled Maps - Night Mode</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
@@ -121,4 +121,4 @@ classes: wide
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA7MLuQQa-SFMeIszcF28LM6R81KT4cvZY&callback=initMap"
     async defer></script>
   </body>
-</html>
+</div>
