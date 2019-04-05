@@ -7,7 +7,7 @@ mathjax: true
 classes: wide
 ---
 
-Top5 stations.
+Top4 stations.
 <div>
 <head>
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -53,11 +53,6 @@ Directions:
   <style>
     #map {
       height: 425px;
-    }
-    html, body {
-      height: 100%;
-      margin: 0;
-      padding: 0;
     }
     #floating-panel {
       position: absolute;
