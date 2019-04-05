@@ -23,8 +23,7 @@ Top5 stations
         [40.696823, -73.935390, 'Top 1'],
         [40.668947, -73.931834, 'Top 2'],
         [40.662563, -73.908905, 'Top 3'],
-        [40.678914, -73.903900, 'Top 4'],
-        [40.675401, -73.871903, 'Top 5']
+        [40.678914, -73.903900, 'Top 4']
       ]);
       var map = new google.visualization.Map(document.getElementById('map_div'), {
         zoom: 3,
