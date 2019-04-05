@@ -14,9 +14,7 @@ classes: wide
   <script type="text/javascript">
     google.charts.load("current", {
       "packages":["map"],
-      /*Note: you will need to get a mapsApiKey for your project.
-      See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings*/
-      "mapsApiKey": "AIzaSyD-9tSrke72PouQMnMX-a7eZSW0jkFMBWY"
+      "mapsApiKey": "AIzaSyA7MLuQQa-SFMeIszcF28LM6R81KT4cvZY"
   });
     google.charts.setOnLoadCallback(drawChart);
     function drawChart() {
