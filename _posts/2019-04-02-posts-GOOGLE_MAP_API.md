@@ -53,13 +53,12 @@ Routes between top5 stations and their nearest parks
   <title>Directions Service</title>
   <style>
     #map {
-      height: 600px
-      width: 800px;
+      height: 425px;
     }
-    /*html, body {
+    html, body {
       height: 100%;
       margin: 0;
-      padding: 0;*/
+      padding: 0;
     }
     #floating-panel {
       position: absolute;
