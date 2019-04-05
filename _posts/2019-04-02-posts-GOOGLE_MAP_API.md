@@ -43,7 +43,7 @@ Top5 stations
 </body>
 
 
-
+Hello!
 
 <head>
   <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
@@ -59,7 +59,6 @@ Top5 stations
       padding: 0;
     }
     #floating-panel {
-      position: TOP_CENTER;
       top: 10px;
       left: 25%;
       z-index: 5;
@@ -128,7 +127,7 @@ Top5 stations
       directionsService.route({
         origin: document.getElementById('start').value,
         destination: document.getElementById('end').value,
-        travelMode: 'DRIVING'
+        travelMode: 'WALKING'
       }, function(response, status) {
         if (status === 'OK') {
           directionsDisplay.setDirections(response);
