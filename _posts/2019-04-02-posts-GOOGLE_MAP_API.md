@@ -118,7 +118,7 @@ Directions:
   <div id="floating-panel">
     <strong>Start:</strong>
     <select id="start">
-      <option value="chicago, il">Chicago</option>
+      <option value={lat: 40.696823, lng: -73.935390}>Top1</option>
       <option value="st louis, mo">St Louis</option>
       <option value="joplin, mo">Joplin, MO</option>
       <option value="oklahoma city, ok">Oklahoma City</option>
