@@ -37,5 +37,5 @@ classes: wide
 </head>
 
 <body>
-  <div id="map_div" style="width: 400px; height: 300px"></div>
+  <div id="map_div" style="width: 800px; height: 600px"></div>
 </body>
