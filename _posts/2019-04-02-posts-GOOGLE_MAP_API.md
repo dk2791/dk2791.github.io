@@ -118,11 +118,10 @@ Directions:
   <div id="floating-panel">
     <strong>Start:</strong>
     <select id="start">
-      <option value="40.696823, -73.935390"}>Top1</option>
+      <option value="40.696823, -73.935390">Top1</option>
       <option value="40.668947, -73.931834">Top2</option>
       <option value="40.662563, -73.908905">Top3</option>
-      <option value="40.678914, -73.903900">Oklahoma City</option>
-      <option value="amarillo, tx">Top4</option>
+      <option value="40.678914, -73.903900">Top4</option>
     </select>
     <br>
     <strong>End:</strong>
