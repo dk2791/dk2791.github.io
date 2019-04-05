@@ -26,10 +26,7 @@ Top5 stations.
         [40.678914, -73.903900, 'Top 4'],
         [40.675401, -73.871903, 'Top 5']
       ]);
-      var map = new google.visualization.Map(document.getElementById('map_div'), {
-        center: {lat: 40.696823, lng:-73.935390},
-        zoom: 5
-        });
+      var map = new google.visualization.Map(document.getElementById('map_div'));
       map.draw(data, {
         showTooltip: true,
         showInfoWindow: true,
@@ -62,6 +59,7 @@ Routes between top5 stations and their nearest parks
     }
     #floating-panel {
       position: absolute;
+      top: 10px;
       left: 25%;
       z-index: 5;
       background-color: #fff;
