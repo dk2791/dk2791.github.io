@@ -20,19 +20,16 @@ classes: wide
     function drawChart() {
       var data = google.visualization.arrayToDataTable([
         ['Lat', 'Long', 'Name'],
-        [37.4232, -122.0853, 'Work'],
-        [37.4289, -122.1697, 'University'],
-        [37.6153, -122.3900, 'Airport'],
-        [37.4422, -122.1731, 'Shopping']
+        [40.696823, -73.935390, 'Top 1'],
+        [40.668947, -73.931834, 'Top 2'],
+        [40.662563, -73.908905, 'Top 3'],
+        [40.678914, -73.903900, 'Top 4'],
+        [40.675401, -73.871903, 'Top 5']
       ]);
-
+    function initMap() {
       var map = new google.visualization.Map(document.getElementById('map_div'), {
         center: {lat: 40.674, lng: -73.945},
-          zoom: 12,    
-      });
-      map.draw(data, {
-        showTooltip: true,
-        showInfoWindow: true
+        zoom: 12,
         styles: [
           {elementType: 'geometry', stylers: [{color: '#242f3e'}]},
           {elementType: 'labels.text.stroke', stylers: [{color: '#242f3e'}]},
@@ -112,7 +109,12 @@ classes: wide
             elementType: 'labels.text.stroke',
             stylers: [{color: '#17263c'}]
           }
-        ]
+        ]    
+      });
+    }
+      map.draw(data, {
+        showTooltip: true,
+        showInfoWindow: true
       });
     }
 
