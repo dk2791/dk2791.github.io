@@ -26,7 +26,10 @@ Top5 stations.
         [40.678914, -73.903900, 'Top 4'],
         [40.675401, -73.871903, 'Top 5']
       ]);
-      var map = new google.visualization.Map(document.getElementById('map_div'));
+      var map = new google.visualization.Map(document.getElementById('map_div'), {
+        center: {lat: 40.696823, lng:-73.935390},
+        zoom: 5
+        });
       map.draw(data, {
         showTooltip: true,
         showInfoWindow: true,
@@ -41,7 +44,7 @@ Top5 stations.
 
 
 
-Routes between top5 stations and their nearest parks.
+Routes between top5 stations and their nearest parks
 
 
 <head>
@@ -50,11 +53,16 @@ Routes between top5 stations and their nearest parks.
   <title>Directions Service</title>
   <style>
     #map {
-      height: 425px;
+      height: 600px
+      width: 800px;
+    }
+    /*html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;*/
     }
     #floating-panel {
       position: absolute;
-      top: 10px;
       left: 25%;
       z-index: 5;
       background-color: #fff;
@@ -107,7 +115,7 @@ Routes between top5 stations and their nearest parks.
       var directionsDisplay = new google.maps.DirectionsRenderer;
       var map = new google.maps.Map(document.getElementById('map'), {
         zoom: 7,
-        center: {lat: 41.85, lng: -87.65}
+        center: {lat: 40.696823, lng: -73.935390}
       });
       directionsDisplay.setMap(map);
 
@@ -122,7 +130,7 @@ Routes between top5 stations and their nearest parks.
       directionsService.route({
         origin: document.getElementById('start').value,
         destination: document.getElementById('end').value,
-        travelMode: 'DRIVING'
+        travelMode: 'WALKING'
       }, function(response, status) {
         if (status === 'OK') {
           directionsDisplay.setDirections(response);
