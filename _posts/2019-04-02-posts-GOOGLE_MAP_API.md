@@ -118,34 +118,20 @@ Directions:
   <div id="floating-panel">
     <strong>Start:</strong>
     <select id="start">
-      <option value={lat: 40.696823, lng: -73.935390}>Top1</option>
-      <option value="st louis, mo">St Louis</option>
-      <option value="joplin, mo">Joplin, MO</option>
-      <option value="oklahoma city, ok">Oklahoma City</option>
-      <option value="amarillo, tx">Amarillo</option>
-      <option value="gallup, nm">Gallup, NM</option>
-      <option value="flagstaff, az">Flagstaff, AZ</option>
-      <option value="winona, az">Winona</option>
-      <option value="kingman, az">Kingman</option>
-      <option value="barstow, ca">Barstow</option>
-      <option value="san bernardino, ca">San Bernardino</option>
-      <option value="los angeles, ca">Los Angeles</option>
+      <option value="40.696823, -73.935390"}>Top1</option>
+      <option value="40.668947, -73.931834">Top2</option>
+      <option value="40.662563, -73.908905">Top3</option>
+      <option value="40.678914, -73.903900">Oklahoma City</option>
+      <option value="amarillo, tx">Top4</option>
     </select>
     <br>
     <strong>End:</strong>
     <select id="end">
-      <option value="chicago, il">Chicago</option>
-      <option value="st louis, mo">St Louis</option>
-      <option value="joplin, mo">Joplin, MO</option>
-      <option value="oklahoma city, ok">Oklahoma City</option>
-      <option value="amarillo, tx">Amarillo</option>
-      <option value="gallup, nm">Gallup, NM</option>
-      <option value="flagstaff, az">Flagstaff, AZ</option>
-      <option value="winona, az">Winona</option>
-      <option value="kingman, az">Kingman</option>
-      <option value="barstow, ca">Barstow</option>
-      <option value="san bernardino, ca">San Bernardino</option>
-      <option value="los angeles, ca">Los Angeles</option>
+      <option value="John the Baptist Community Garden">John the Baptist Community Garden</option>
+      <option value="Lincoln Terrace / Arthur S. Somers Park">Lincoln Terrace / Arthur S. Somers Park</option>
+      <option value="Newport Playground">Newport Playground</option>
+      <option value="Callahan-Kelly Playground">Callahan-Kelly Playground</option>
+      <option value="Green Gems">Green Gems</option>
     </select>
   </div>
   <div id="right-panel"></div>
@@ -156,7 +142,7 @@ Directions:
       var directionsService = new google.maps.DirectionsService;
       var map = new google.maps.Map(document.getElementById('map'), {
         zoom: 7,
-        center: {lat: 41.85, lng: -87.65}
+        center: {lat: 40.696823, lng: -73.935390}
       });
       directionsDisplay.setMap(map);
       directionsDisplay.setPanel(document.getElementById('right-panel'));
@@ -178,7 +164,7 @@ Directions:
       directionsService.route({
         origin: start,
         destination: end,
-        travelMode: 'DRIVING'
+        travelMode: 'WALKING'
       }, function(response, status) {
         if (status === 'OK') {
           directionsDisplay.setDirections(response);
