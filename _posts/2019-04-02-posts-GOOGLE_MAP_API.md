@@ -14,7 +14,7 @@ classes: wide
   <script type="text/javascript">
     google.charts.load("current", {
       "packages":["map"],
-      "mapsApiKey": "AIzaSyA7MLuQQa-SFMeIszcF28LM6R81KT4cvZY"
+      "mapsApiKey": "AIzaSyAB-pv1qhTq8z2GnUDOK9vJQyErovz2eEo"
   });
     google.charts.setOnLoadCallback(drawChart);
     function drawChart() {
