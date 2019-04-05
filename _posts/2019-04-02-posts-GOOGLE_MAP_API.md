@@ -8,7 +8,7 @@ classes: wide
 ---
 
 Top5 stations
-
+<div>
 <head>
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   <script type="text/javascript">
@@ -41,9 +41,11 @@ Top5 stations
 <body>
   <div id="map_div" style="width: 800px; height: 600px"></div>
 </body>
+</div>
+
 
 Directions:
-
+<div>
 <head>
   <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
   <meta charset="utf-8">
@@ -195,3 +197,4 @@ Directions:
   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAB-pv1qhTq8z2GnUDOK9vJQyErovz2eEo&callback=initMap">
   </script>
 </body>
+</div>
