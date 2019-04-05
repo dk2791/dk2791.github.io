@@ -26,7 +26,10 @@ Top5 stations
         [40.678914, -73.903900, 'Top 4'],
         [40.675401, -73.871903, 'Top 5']
       ]);
-      var map = new google.visualization.Map(document.getElementById('map_div'));
+      var map = new google.visualization.Map(document.getElementById('map_div'), {
+        zoom: 4,
+        center: {lat: 40.696823, lng: -73.935390},
+        });
       map.draw(data, {
         showTooltip: true,
         showInfoWindow: true,
