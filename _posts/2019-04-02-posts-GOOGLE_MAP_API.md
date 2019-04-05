@@ -33,7 +33,6 @@ Top5 stations
         mapTypeId: 'satellite'
         zoom: 4,
         center: {lat: 40.696823, lng: -73.935390},
-
       });
     }
   </script>
