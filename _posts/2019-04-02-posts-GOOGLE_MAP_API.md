@@ -29,12 +29,6 @@ Top4 stations.
         zoom: 3,
         center: {lat: 40.696823, lng: -73.935390}
         });
-      options = {
-        title: 'Top 4 stations',
-        chartArea: {left:0, top:0, width:"100%",height:"100%"}
-        ,height: 500
-        ,width: 500
-      };
       map.draw(data, {
         showTooltip: true,
         showInfoWindow: true,
@@ -43,6 +37,9 @@ Top4 stations.
     }
   </script>
 </head>
+<body>
+  <div id="map_div" style="width: 500px; height: 500px"></div>
+</body>
 </div>
 
 
