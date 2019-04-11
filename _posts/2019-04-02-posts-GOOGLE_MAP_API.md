@@ -6,8 +6,11 @@ excerpt:
 mathjax: true
 classes: wide
 ---
+Google Map API is a collection of toolsets offered by Google to carry out cool things associated with map, location, and others. I am intending to update this website with a few examples and also introduce the folium package.
 
-Top4 stations.
+
+
+Customized pin points.
 <div>
 <head>
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -43,7 +46,7 @@ Top4 stations.
 </div>
 
 
-Directions:
+Customized directions:
 
 <div>
 <head>
