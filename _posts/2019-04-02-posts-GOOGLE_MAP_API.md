@@ -6,7 +6,7 @@ excerpt:
 mathjax: true
 classes: wide
 ---
-Google Map API is a collection of toolsets offered by Google to carry out cool things associated with map, location, and others. I am intending to update this post with a few examples and also introduce the folium package.
+Google Map API is a collection of toolsets offered by Google to carry out cool things associated with map, location, and others. I am intending to update this post with a few examples and also introduce the folium package !
 
 
 
