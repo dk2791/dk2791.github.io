@@ -5,11 +5,12 @@ header:
   image: "/images/image5.jpeg"
 sidebar:
   nav: "ml"
+classes: wide
 ---
 
 # NLP & Regression on SP500 Companies
 
-#### Does a popular NLP model, LDA, applied to earnings transcript provide valuable information beyond those from common financial indicators? 
+#### Does a popular NLP model, LDA, applied to earnings transcript provide valuable information beyond those from common financial indicators?
 
 ![alt]({{ site.url}}{{ site.baseurl }}/images/ml_project_1/im1.png)
 ![alt]({{ site.url}}{{ site.baseurl }}/images/ml_project_1/im2.png)

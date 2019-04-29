@@ -5,6 +5,7 @@ header:
   image: "/images/image6.jpeg"
 sidebar:
   nav: "ml"
+classes: wide
 ---
 
 Project #2 !
