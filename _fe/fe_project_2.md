@@ -5,6 +5,7 @@ header:
   image: "/images/image8.jpeg"
 sidebar:
   nav: "fe"
+classes: wide
 ---
 This project was submitted to Dongbu Research Competition in May 2016.
 Coauthor was Sohee Park and Wonho Choi. It is written in Korean

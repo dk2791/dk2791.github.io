@@ -5,6 +5,7 @@ header:
   image: "/images/image9.jpeg"
 sidebar:
   nav: "fe"
+classes: wide
 ---
 This project was submitted to Maekyung Economics Competition in December 2015.
 Coauthor was Yoongu Kang and Sooyeol Kim. It is written in Korean

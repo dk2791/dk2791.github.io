@@ -5,6 +5,7 @@ header:
   image: "/images/image10.jpeg"
 sidebar:
   nav: "fe"
+classes: wide
 ---
 This project was submitted to Dongbu Research Competition in May 2014.
 Coauthor was Kwonhee Park and Seokhee Park.

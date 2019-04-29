@@ -5,6 +5,7 @@ header:
   image: "/images/image7.jpeg"
 sidebar:
   nav: "fe"
+classes: wide
 ---
 
 Pricing routine for exotic ADR options.
