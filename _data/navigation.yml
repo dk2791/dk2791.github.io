@@ -46,7 +46,7 @@ ml:
     children:
       - title: "Machine Learning Projects"
         url: /ml/machine-learning/
-      - title: "Project Number 1"
+      - title: "NLP & Regression on SP500 Companies"
         url: /ml/ml-project-1/
       - title: "Project Number 2"
         url: /ml/ml-project-2/
