@@ -48,7 +48,7 @@ ml:
         url: /ml/machine-learning/
       - title: "NLP & Regression on SP500 Companies"
         url: /ml/ml-project-1/
-      - title: "Project Number 2"
+      - title: "Project Number 2 (N/A yet)"
         url: /ml/ml-project-2/
 fe:
   - title: Project List
