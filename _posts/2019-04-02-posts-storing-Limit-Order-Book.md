@@ -7,8 +7,10 @@ mathjax: true
 classes: wide
 ---
 
-Following script will download LOB data of 500 companies every 5 minute into "LOB.csv".
-The description of columns in book DataFrames are available [here](https://iextrading.com/developer/docs/#getting-started)
+Following script will download IEX LOB data of 500 companies every 5 minute into "LOB.csv".
+The description of columns in book DataFrames are available [here](https://iextrading.com/developer/docs/#getting-started).
+
+I realized this code produces duplicate data. Thus, I will update this post again.
 
 
 ```python
