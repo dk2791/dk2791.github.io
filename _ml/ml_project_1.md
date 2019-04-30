@@ -1,5 +1,5 @@
 ---
-title: "Project Number 1"
+title: "NLP & Regression on SP500 Companies"
 permalink: /ml/ml-project-1/
 header:
   image: "/images/image5.jpeg"
