@@ -8,7 +8,6 @@ sidebar:
 classes: wide
 ---
 
-# NLP & Regression on SP500 Companies
 
 #### Does a popular NLP model, LDA, applied to earnings transcript provide valuable information beyond those from common financial indicators?
 
